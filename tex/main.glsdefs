@@ -1,0 +1,390 @@
+\ifglsentryexists{qos1}{}%
+{%
+\gls@defglossaryentry{qos1}%
+{%
+name={QoS},%
+sort={QoS},%
+type={acronym},%
+first={Quality of Service\glsspace (QoS)},%
+firstplural={Quality of Services\glsspace (QoSs)},%
+text={QoS},%
+plural={QoSs},%
+description={Quality of Service},%
+descriptionplural={Quality of Service\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Quality of Service},%
+longplural={Quality of Services},%
+short={QoS},%
+shortplural={QoSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{tcp}{}%
+{%
+\gls@defglossaryentry{tcp}%
+{%
+name={TCP},%
+sort={TCP},%
+type={acronym},%
+first={Transport Control Protocol\glsspace (TCP)},%
+firstplural={Transport Control Protocols\glsspace (TCPs)},%
+text={TCP},%
+plural={TCPs},%
+description={Transport Control Protocol},%
+descriptionplural={Transport Control Protocol\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Transport Control Protocol},%
+longplural={Transport Control Protocols},%
+short={TCP},%
+shortplural={TCPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ftp}{}%
+{%
+\gls@defglossaryentry{ftp}%
+{%
+name={FTP},%
+sort={FTP},%
+type={acronym},%
+first={File Transport Protocol\glsspace (FTP)},%
+firstplural={File Transport Protocols\glsspace (FTPs)},%
+text={FTP},%
+plural={FTPs},%
+description={File Transport Protocol},%
+descriptionplural={File Transport Protocol\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={File Transport Protocol},%
+longplural={File Transport Protocols},%
+short={FTP},%
+shortplural={FTPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{api}{}%
+{%
+\gls@defglossaryentry{api}%
+{%
+name={API},%
+sort={API},%
+type={acronym},%
+first={Application Programmer Interface\glsspace (API)},%
+firstplural={Application Programmer Interfaces\glsspace (APIs)},%
+text={API},%
+plural={APIs},%
+description={Application Programmer Interface},%
+descriptionplural={Application Programmer Interface\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Application Programmer Interface},%
+longplural={Application Programmer Interfaces},%
+short={API},%
+shortplural={APIs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ui}{}%
+{%
+\gls@defglossaryentry{ui}%
+{%
+name={UI},%
+sort={UI},%
+type={acronym},%
+first={User Interface\glsspace (UI)},%
+firstplural={User Interfaces\glsspace (UIs)},%
+text={UI},%
+plural={UIs},%
+description={User Interface},%
+descriptionplural={User Interface\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={User Interface},%
+longplural={User Interfaces},%
+short={UI},%
+shortplural={UIs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{rts}{}%
+{%
+\gls@defglossaryentry{rts}%
+{%
+name={RTS},%
+sort={RTS},%
+type={acronym},%
+first={Real Time Strategy\glsspace (RTS)},%
+firstplural={Real Time Strategys\glsspace (RTSs)},%
+text={RTS},%
+plural={RTSs},%
+description={Real Time Strategy},%
+descriptionplural={Real Time Strategy\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Real Time Strategy},%
+longplural={Real Time Strategys},%
+short={RTS},%
+shortplural={RTSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{html}{}%
+{%
+\gls@defglossaryentry{html}%
+{%
+name={HTML},%
+sort={HTML},%
+type={acronym},%
+first={HyperText Markup Language\glsspace (HTML)},%
+firstplural={HyperText Markup Languages\glsspace (HTMLs)},%
+text={HTML},%
+plural={HTMLs},%
+description={HyperText Markup Language},%
+descriptionplural={HyperText Markup Language\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={HyperText Markup Language},%
+longplural={HyperText Markup Languages},%
+short={HTML},%
+shortplural={HTMLs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{rdf}{}%
+{%
+\gls@defglossaryentry{rdf}%
+{%
+name={RDF},%
+sort={RDF},%
+type={acronym},%
+first={Resource Description Framework\glsspace (RDF)},%
+firstplural={Resource Description Frameworks\glsspace (RDFs)},%
+text={RDF},%
+plural={RDFs},%
+description={Resource Description Framework},%
+descriptionplural={Resource Description Framework\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Resource Description Framework},%
+longplural={Resource Description Frameworks},%
+short={RDF},%
+shortplural={RDFs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{uri}{}%
+{%
+\gls@defglossaryentry{uri}%
+{%
+name={URI},%
+sort={URI},%
+type={acronym},%
+first={Uniform Resource Identifiers\glsspace (URI)},%
+firstplural={Uniform Resource Identifierss\glsspace (URIs)},%
+text={URI},%
+plural={URIs},%
+description={Uniform Resource Identifiers},%
+descriptionplural={Uniform Resource Identifiers\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Uniform Resource Identifiers},%
+longplural={Uniform Resource Identifierss},%
+short={URI},%
+shortplural={URIs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{http}{}%
+{%
+\gls@defglossaryentry{http}%
+{%
+name={HTTP},%
+sort={HTTP},%
+type={acronym},%
+first={HyperText Transfer Protocol\glsspace (HTTP)},%
+firstplural={HyperText Transfer Protocols\glsspace (HTTPs)},%
+text={HTTP},%
+plural={HTTPs},%
+description={HyperText Transfer Protocol},%
+descriptionplural={HyperText Transfer Protocol\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={HyperText Transfer Protocol},%
+longplural={HyperText Transfer Protocols},%
+short={HTTP},%
+shortplural={HTTPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{rdfs}{}%
+{%
+\gls@defglossaryentry{rdfs}%
+{%
+name={RDFS},%
+sort={RDFS},%
+type={acronym},%
+first={RDF Vocabulary Definition Language\glsspace (RDFS)},%
+firstplural={RDF Vocabulary Definition Languages\glsspace (RDFSs)},%
+text={RDFS},%
+plural={RDFSs},%
+description={RDF Vocabulary Definition Language},%
+descriptionplural={RDF Vocabulary Definition Language\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={RDF Vocabulary Definition Language},%
+longplural={RDF Vocabulary Definition Languages},%
+short={RDFS},%
+shortplural={RDFSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{owl}{}%
+{%
+\gls@defglossaryentry{owl}%
+{%
+name={OWL},%
+sort={OWL},%
+type={acronym},%
+first={Web Ontology Language\glsspace (OWL)},%
+firstplural={Web Ontology Languages\glsspace (OWLs)},%
+text={OWL},%
+plural={OWLs},%
+description={Web Ontology Language},%
+descriptionplural={Web Ontology Language\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Web Ontology Language},%
+longplural={Web Ontology Languages},%
+short={OWL},%
+shortplural={OWLs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{xml}{}%
+{%
+\gls@defglossaryentry{xml}%
+{%
+name={XML},%
+sort={XML},%
+type={acronym},%
+first={Extensible Markup Language\glsspace (XML)},%
+firstplural={Extensible Markup Languages\glsspace (XMLs)},%
+text={XML},%
+plural={XMLs},%
+description={Extensible Markup Language},%
+descriptionplural={Extensible Markup Language\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Extensible Markup Language},%
+longplural={Extensible Markup Languages},%
+short={XML},%
+shortplural={XMLs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
